@@ -1,0 +1,27 @@
+{
+  "question": "How does the saved example illustrate year-over-year revenue growth?",
+  "current_revenue_millions": 120,
+  "prior_revenue_millions": 100,
+  "evidence": [
+    {
+      "evidence_id": "D1",
+      "title": "Saved illustrative issuer excerpt",
+      "url": "https://example.com/signalx-demo-source",
+      "publisher": "SignalX demo dataset",
+      "source_family": "example.com",
+      "published_at": "2026-02-15",
+      "excerpt": "DEMO DATA — illustrative example only: revenue is listed as $120 million for FY2025 and $100 million for FY2024. These values are fabricated for demonstrating the research workflow and are not real issuer data.",
+      "extraction_status": "demo"
+    },
+    {
+      "evidence_id": "D2",
+      "title": "Saved repeated sample coverage excerpt",
+      "url": "https://sample.example.org/signalx-demo-coverage",
+      "publisher": "SignalX demo dataset",
+      "source_family": "sample.example.org",
+      "published_at": "2026-02-16",
+      "excerpt": "DEMO DATA — this sample coverage repeats the illustrative values from D1: $120 million in FY2025 and $100 million in FY2024. It is derived from the same sample data and is not independent corroboration.",
+      "extraction_status": "demo"
+    }
+  ]
+}
